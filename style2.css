@@ -1,0 +1,16 @@
+.box {
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+    box-shadow: 12px 12px lightgrey;
+  }
+  
+  #pink {
+    background-color: #d794aa;
+  }
+  
+  /*
+  It took probably around 15 minutes to complete this task. It was easy to make the box and its shadow but I confused the percentages for the radius. I thought a greater radius percentage would make it more square while a lower percentage would make it more circular but I was wrong so that took more time than I had orginally expected.
+  
+  */

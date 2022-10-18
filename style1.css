@@ -1,0 +1,24 @@
+/* task 1 */
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+.heading {
+    background-color: #427fef;
+    color: white;
+    border-color: white;
+}
+
+tr:nth-child(2n + 3) {
+    background-color: rgb(134, 167, 155);
+}
+
+/*
+ It took a little more than one class period to complete this task. Making the table itself and adding the background colors went well but I had trouble with the spacing and borders of the table so it took more time.
+
+*/
